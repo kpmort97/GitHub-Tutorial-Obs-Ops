@@ -17,6 +17,6 @@ The goal of this repository is to do the following:
     
 (3)  Commit the changes into your local depository and push them upstream to the remote repository.
 
-(4)  Create a pull request.
+(4)  Create a pull request. Make sure to add a description and kpmort97 as a reviewer.
 
-(5)  Merge the file into the main repository.
+(5)  Once Pull Request is approved, merge the file into the main repository.
