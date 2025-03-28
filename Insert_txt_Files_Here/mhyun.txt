@@ -1,0 +1,7 @@
+Full Name: Minhee Hyun
+
+Current Date: March 28, 2025
+
+Occupation at Rubin Observatory: Observing Specialist
+
+Favorite Git Command: git clone
