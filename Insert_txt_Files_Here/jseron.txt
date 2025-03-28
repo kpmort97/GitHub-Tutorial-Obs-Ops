@@ -1,0 +1,4 @@
+Name: Jacqueline Seron
+Date: March 28, 2025
+Occupation: Observing Specialist
+Favorite Git Command: git push
