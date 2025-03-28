@@ -1,4 +1,4 @@
 Name: Kris Mortensen
 Date: March 28, 2025
 Occupation: Observing Specialist
-Favorite Git Command: git rebase -i HEAD~n 
+Favorite Git Command: git merge
