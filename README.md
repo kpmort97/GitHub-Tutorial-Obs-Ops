@@ -5,7 +5,7 @@ The goal of this repository is to do the following:
 
 (1)  Connect to a remote repository through terminal commands on a local computer.
 
-(2)  Create a .txt file on VSCode and add the following criteria to it:
+(2)  Create a .txt file using a text editor (e.g., VSCode) and add the following criteria to it:
 
     -  Full Name
     
