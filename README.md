@@ -19,4 +19,6 @@ The goal of this repository is to do the following:
 
 (4)  Create a pull request. Make sure to add a description and kpmort97 as a reviewer.
 
-(5)  Once Pull Request is approved, merge the file into the main repository.
+(5)  Once Pull Request is approved, check to make sure your branch is up to date (you may see an update branch button). If it is not by rebasing IN TERMINAL. 
+
+(6)  Squash multiple commits (if available) and merge the files into the main repository.
